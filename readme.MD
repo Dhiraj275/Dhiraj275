@@ -7,15 +7,14 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Web Development and computer programming.
 - 💼 &nbsp; Android developer and front-end web developer.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python  
 - 🌐 &nbsp; Android | Node.js | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🛢 &nbsp; MySQL | Firebase
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git
+- 🖥 &nbsp; Adobe Xd | Figma
 
 <br>
 <p align="center">
@@ -28,7 +27,7 @@
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/DhruvInTech" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/dhirajprajapati.co/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/dhiraj.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/dhiraj-prajapati-web-dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:dhirajprajapati.co@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
