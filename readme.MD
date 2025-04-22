@@ -1,20 +1,20 @@
-<h2> Hey there! I'm Dhiraj. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Dhiraj275/Dhiraj275/master/gif3.gif" width="500"/>
-
+<h2> Hey there! I'm Dhiraj.</h2>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React Native Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Web Development and computer programming.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 🔭 &nbsp; Currently building a low-level **graphics engine** using C++ and DirectX 11  
+- 🎮 &nbsp; Learning **Game Development**, Graphics Programming, and modern rendering techniques  
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks  
+- 🎓 &nbsp; Studying Web Development and Computer Programming  
+- 💼 &nbsp; React Developer and Android Developer  
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python  
-- 🌐 &nbsp; Android | Node.js | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Figma
+- 💻 &nbsp; C++ | Python | Java  
+- 🌐 &nbsp; React | React Native | Node.js | HTML | CSS | JavaScript | Bootstrap  
+- 🎮 &nbsp; DirectX 11 | Win32 API  
+- 🛢 &nbsp; MySQL | Firebase  
+- 🔧 &nbsp; Visual Studio | VS Code | Git | Android Studio  
+- 🖥 &nbsp; Adobe XD | Figma  
 
 <br>
 <p align="center">
@@ -22,12 +22,9 @@
 </p>
 </br>
 
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/DhruvInTech" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/dhiraj.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/dhiraj-prajapati-web-dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:dhirajprajapati.co@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://twitter.com/DhruvInTech" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/twitter" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/dhiraj-prajapati-web-dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/linkedin" width="50" /></a>  
 </p>
