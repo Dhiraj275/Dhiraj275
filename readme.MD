@@ -16,9 +16,6 @@
 - 🔧 &nbsp; Visual Studio | VS Code | Git | Android Studio  
 - 🖥 &nbsp; Adobe XD | Figma  
 
-<br>
-</br>
-<br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
