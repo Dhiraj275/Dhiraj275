@@ -44,8 +44,7 @@ I have experience developing responsive user interfaces, integrating REST APIs, 
 - Firebase
 
 ### **Databases**
-- SQL
-- PostgreSQL
+- MySQL
 - Firebase Firestore
 
 ### **Tools**
