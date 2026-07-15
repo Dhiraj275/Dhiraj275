@@ -15,7 +15,7 @@ I have experience developing responsive user interfaces, integrating REST APIs, 
   Node.js, Nest.js, Express.js, REST APIs, Firebase
 
 - 🌐 **Frontend Development**
-  React.js, Next.js, HTML5, CSS3, Tailwind CSS, Angular
+  React.js, Next.js, HTML5, CSS3, Tailwind CSS
 
 ---
 
@@ -34,7 +34,6 @@ I have experience developing responsive user interfaces, integrating REST APIs, 
 - HTML5
 - CSS3
 - Tailwind CSS
-- Angular
 
 ### **Backend Development**
 - Node.js
