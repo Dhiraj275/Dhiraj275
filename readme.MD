@@ -1,51 +1,72 @@
 ## 👋 Hey, I'm Dhiraj
 
-I'm a programmer focused on **low-level systems development** — networking, OS-level work, memory handling, and C/C++ fundamentals.  
-Right now I’m building a **minimal HTTP server in C** (request parsing, static file serving, safe path resolution) to sharpen my systems skills.
+I'm a **Software Developer** with experience building **cross-platform mobile applications** using **React Native** and **TypeScript**, along with scalable backend services using **Node.js**, **Nest.js**, **MySQL**, and **Firebase**.
 
-I keep **graphics programming** as a hobby — experimenting with DirectX 11, rendering concepts, and engine basics for fun and learning.
+I have experience developing responsive user interfaces, integrating REST APIs, implementing real-time features, and collaborating across frontend and backend teams to build reliable, high-performance applications.
 
 ---
 
 ## 🧠 What I'm Currently Focused On
 
-- ⚙️ **Systems Programming (Primary)**  
-  Sockets, HTTP implementation, low-level parsing, filesystem interaction, performance, OS concepts
+- 📱 **Mobile Development**
+  React Native, Expo, TypeScript, Android, JavaScript
 
-- 🎯 **C/C++ Fundamentals**  
-  Pointers, memory management, manual parsing, error handling, modular design
+- ⚙️ **Backend Development**
+  Node.js, Nest.js, Express.js, REST APIs, Firebase
 
-- 🎮 **Graphics (Hobby)**  
-  DirectX 11, Win32 API, rendering pipeline basics — purely side projects for curiosity and learning
+- 🌐 **Frontend Development**
+  React.js, Next.js, HTML5, CSS3, Tailwind CSS, Angular
 
 ---
 
 ## 🛠 Tech Stack
 
-### **Systems & Low-Level**
-- C, C++
-- Sockets / Networking
-- OS APIs, File I/O
-- Win32 API  
-- Basic DirectX 11 (hobby)
+### **Mobile Development**
+- React Native
+- Expo
+- TypeScript
+- JavaScript
+- Android
 
-### **Web Development (Background)**
-- React, Next.js, Node.js  
-- HTML, CSS, JavaScript  
-- Firebase, MySQL  
+### **Frontend Development**
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Angular
+
+### **Backend Development**
+- Node.js
+- Nest.js
+- Express.js
+- REST APIs
+- Firebase
+
+### **Databases**
+- SQL
+- PostgreSQL
+- Firebase Firestore
 
 ### **Tools**
-- Visual Studio, VS Code  
-- Git  
-- Linux (Arch btw 😄)  
+- Git
+- GitHub
+- NPM
+- Postman
+- Figma
+
+---
+
+## 🚀 Featured Project
+
+### **Minimal HTTP Server in C**
+
+Built a minimal HTTP server from scratch using sockets in C.
 
 ---
 
 ## 🔗 Connect
 
-<a href="https://twitter.com/DhruvInTech" target="_blank">
-  <img src="https://img.icons8.com/color/48/twitter--v1.png"/>
-</a>
 <a href="https://www.linkedin.com/in/dhiraj-prajapati-web-dev/" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
